@@ -1,5 +1,5 @@
 
-# Daily – task management app
+# Tasker – task management app
 
 Daily is a task management app with statistical analysis of various types of tasks
 
