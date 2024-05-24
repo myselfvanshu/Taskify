@@ -1,0 +1,20 @@
+.main-task-container {
+  width: 80%;
+  height: 95vh;
+  overflow-y: scroll;
+  padding: 3rem;
+}
+
+@media (max-width: 992px) {
+  .main-task-container {
+    width: 95%;
+    height: max-content;
+    overflow-x: hidden;
+    padding: 3rem 5rem;
+  }
+}
+@media (max-width: 360px) {
+  .main-task-container {
+    padding: 3rem 1rem;
+  }
+}
